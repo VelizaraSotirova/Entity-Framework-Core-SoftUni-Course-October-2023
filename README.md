@@ -2,3 +2,5 @@
 In this repository will be given solution to some of the problems from EF Core Course from the Software University2023
 
 1) Entity Framework Core Introduction 
+2) LINQ
+3) Entity Relations
