@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\bin\Debug\net6.0\P02_FootballBetting.Data.deps.json
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\bin\Debug\net6.0\P02_FootballBetting.Data.dll
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\bin\Debug\net6.0\P02_FootballBetting.Data.pdb
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.dll
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\obj\Debug\net6.0\refint\P02_FootballBetting.Data.dll
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\obj\Debug\net6.0\P02_FootballBetting.Data.pdb
+C:\Users\User\Desktop\Entity framework\Entity Relations\P02_FootballBetting\P02_FootballBetting.Data\obj\Debug\net6.0\ref\P02_FootballBetting.Data.dll
